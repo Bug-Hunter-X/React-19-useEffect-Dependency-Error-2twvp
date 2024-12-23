@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React 19 involving the useEffect hook. The `bug.js` file shows an example of an infinite loop caused by incorrectly specifying dependencies in useEffect. The `bugSolution.js` file provides the corrected code.
